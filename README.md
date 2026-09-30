@@ -41,3 +41,12 @@ Databricks Jobs are used to run the ingestion and transformation tasks in sequen
 
 The Databricks job has completed successfully. Further data-quality validation, including reconciliation of Bronze and Silver row counts, remains to be done.
 
+## Screenshots
+
+### Databricks Job Execution
+<img width="1363" height="641" alt="image" src="https://github.com/user-attachments/assets/b412c321-562e-4f0a-ac1e-c0f88f3276b7" />
+
+
+### Medallion Architecture Tables
+<img width="1350" height="628" alt="image" src="https://github.com/user-attachments/assets/5fb2a360-7888-44c8-b815-3f7ab27be0c7" />
+
